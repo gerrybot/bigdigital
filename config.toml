@@ -1,4 +1,4 @@
-baseURL = "https://bigdigital.co.uk"
+baseURL = "https://bigdigital.co.uk/"
 languageCode = "en-us"
 title = "Big Digital"
 theme = "hugo-lodi-theme-master"
