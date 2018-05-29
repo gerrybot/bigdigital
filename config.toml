@@ -5,7 +5,7 @@ theme = "hugo-lodi-theme-master"
 googleAnalytics = "UA-XXXXXXXX-Y"
 
 [params]
-    theme_color = "#ff3399"
+    theme_color = "#9c2322"
     description = "Portfolio of Lisa McGarry, Social Media Consultant"
     description_photo = "portfolio.jpg"
     favicon = "favicon.png"
@@ -21,15 +21,15 @@ googleAnalytics = "UA-XXXXXXXX-Y"
 
 [params.hero]
     enable = true
-    avatar = "avatar.jpg"
-    subtitle = "Hi! I'm Lisa, a Social Media consultant and copywriter from Belfast."
-    hero_right = ["**Currently doing consultancy work at UX Society. Previously doing UX and product at Agoda in Bangkok, Thailand as an international intern.**", "I founded [User Experience Society](https://www.facebook.com/UXSoc/), the first student UX organization in the Philippines. For two years, we've had 20+ events with 30+ speakers for over 300 members and 500+ attendees. We've expanded to [California](https://www.facebook.com/profile.php?id=245708449193012) this year.", "I do a bit of writing as well. [Here's an article with a total of 21,000+ views to InVision & Medium](http://blog.invisionapp.com/ux-internship-wisdom/) talking about 50 things I learned spending 3 years as a UX intern.", "I help cultivate the design community in Manila too. I'm the youngest core member of [UX Philippines](https://www.facebook.com/groups/uxphilippines/) and I moderated a panel with some cool people for the [UXPH 2017 Conference](https://www.uxphilippines.com).", "I'm finishing my Bachelor's degree in Management Information Systems at the Ateneo de Manila University, expecting to graduate in 2018."]
+    avatar = "Big-Digital-logo.jpg"
+    subtitle = "A results driven Web Design & Digital Marketing Agency."
+    hero_right = ["**Welcome to Big Digital, a web design and digital marketing agency based in Belfast, Northern Ireland, with clients in Antrim, Lisburn, Mid-Ulster and beyond.**", "You have a fantastic business. You have a website (if you don’t we can help with that too!), you’re on social media, so why aren’t people hearing about you and why aren’t you getting results?.", "We work with SMEs, Charities and Public Sector organisations to fine tune their digital strategy, to improve their online and social media presence and to perfect their SEO.", "Our digital experts will deliver business-changing results for clients, while also sharing our knowledge through events and training.", "Get in touch to see how we can take you to the next level. (Button under pic to take to contact form)."]
     resume = "ResumeCollado.pdf"
 
 [params.process]
     enable = true
-    title = "My Process"
-    subtitle = "Full Process Design"
+    title = "Our Services"
+    subtitle = "We offer a full digital marketing service - from optimising your site for Google to handling your social media and web content strategy"
 
 [params.case_studies]
     enable = true

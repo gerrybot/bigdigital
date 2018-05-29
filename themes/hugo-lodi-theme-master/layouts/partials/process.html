@@ -9,7 +9,11 @@
             <div class="process-item">
                 <figure class="item-header">
                     <img src="svg/{{ $element.icon }}">
+                    {{ if $element.morelink }}
+                    <h3><a href="{{ $element.morelink }}" title="{{ $element.title }}">{{ $element.title }}</a></h3>
+                    {{ else }}
                     <h3>{{ $element.title }}</h3>
+                    {{ end }}
                 </figure>
                 <p>{{ $element.description }}</p>
             </div>
