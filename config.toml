@@ -36,5 +36,10 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     title = "Case Studies"
     subtitle = "Selected Works"
 
+[params.Contact]
+    enable = true
+    title = "Contact Us"
+    subtitle = "Drop us a line about your social media or website requirements and we'll get right back to you!"
+
 [params.footer]
     enable = true

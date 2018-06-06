@@ -1,0 +1,16 @@
+<section class="contact" style="background:#fdfcfc;" data-scroll-index="3">
+    <div class="process">
+        <div class="header">
+            <h1 class="title">{{ .Site.Params.Contact.Title }}</h1>
+            <h2 class="subtitle">{{ .Site.Params.Contact.Subtitle }}</h2>
+        </div>
+
+        <form name="contact" method="POST" netlify>
+  			<p><label>Your Name: <input type="text" name="name" /></label></p>
+  			<p><label>Your Email: <input type="email" name="email" /></label></p>
+  			<p><label>Telephone No: <input type="telephone" name="telephone" /></label></p>
+  			<p><label>Message: <textarea name="message"></textarea></label></p>
+  			<p><button type="submit">Send</button></p>
+		</form>
+    </div>
+</section>
