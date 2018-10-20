@@ -23,7 +23,7 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     enable = true
     avatar = "Big-Digital-logo.jpg"
     subtitle = "A results driven Web Design & Digital Marketing Agency."
-    hero_right = ["**Welcome to Big Digital, a web design and digital marketing agency based in Belfast, Northern Ireland, with clients in Antrim, Lisburn, Mid-Ulster and beyond.**", "You have a fantastic business. You have a website (if you don’t we can help with that too!), you’re on social media, so why aren’t people hearing about you and why aren’t you getting results?.", "We work with SMEs, Charities and Public Sector organisations to fine tune their digital strategy, to improve their online and social media presence and to perfect their SEO.", "Our digital experts will deliver business-changing results for clients, while also sharing our knowledge through events and training.", "Get in touch to see how we can take you to the next level. (Button under pic to take to contact form)."]
+    hero_right = ["**Welcome to Big Digital, a web design and digital marketing agency based in Belfast, Northern Ireland, with clients in Antrim, Lisburn, Mid-Ulster and beyond.**", "You have a fantastic business. You have a website (if you don’t we can help with that too!), you’re on social media, so why aren’t people hearing about you and why aren’t you getting results?.", "We work with SMEs, Charities and Public Sector organisations to fine tune their digital strategy, to improve their online and social media presence and to perfect their SEO.", "Our digital experts will deliver business-changing results for clients, while also sharing our knowledge through events and training.", "Get in touch to see how we can take you to the next level."]
     resume = "ResumeCollado.pdf"
 
 [params.process]
@@ -32,7 +32,7 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     subtitle = "We offer a full digital marketing service - from optimising your site for Google to handling your social media and web content strategy"
 
 [params.case_studies]
-    enable = true
+    enable = false
     title = "Case Studies"
     subtitle = "Selected Works"
 

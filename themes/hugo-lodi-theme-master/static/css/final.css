@@ -597,3 +597,13 @@ section {
   transition: 0.2s ease-in-out;
   border-bottom: 3px solid #574CDD;
 }
+
+label {
+  display: inline-block;
+  vertical-align: top;
+  width: 15%;
+}
+
+input, textarea {
+  width: 30%;
+}
